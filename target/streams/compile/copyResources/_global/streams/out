@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(/Users/meetparmar/Desktop/TrecoX-Server/conf/logback.xml,/Users/meetparmar/Desktop/TrecoX-Server/target/scala-2.13/classes/logback.xml)
+[debug] 	(/Users/meetparmar/Desktop/TrecoX-Server/conf/application.conf,/Users/meetparmar/Desktop/TrecoX-Server/target/scala-2.13/classes/application.conf)
+[debug] 	(/Users/meetparmar/Desktop/TrecoX-Server/conf/routes,/Users/meetparmar/Desktop/TrecoX-Server/target/scala-2.13/classes/routes)

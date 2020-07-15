@@ -1,0 +1,46 @@
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+# general
+*~
+*.log
+tmp
+dump
+dump.rdb
+.DS_Store
+./app/assets/.DS_Store
+# Eclipse
+.settings
+.cache
+.project
+.classpath
+.scala_dependencies
+bin
+# SBT
+dist
+project/boot
+project/target
+project/plugins/target
+target
+.target
+# Play
+logs
+RUNNING_PID
+# Node.js
+node_modules
+# Gradle
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+video-infra.iml
+#conf
+conf/easwarendra.conf
+conf/vishwa.conf
+# Visual Studio Code
+.vscode/
